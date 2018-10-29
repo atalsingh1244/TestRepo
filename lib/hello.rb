@@ -8,3 +8,4 @@ puts "Just have to chekc the rebase command"
 puts "Just added second comment to check rebase stuff"
 ==
 puts "Emergeny check rebase stuff1"
+puts "Second Urency rebase stuff2"
