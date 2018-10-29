@@ -3,3 +3,4 @@ require 'greeter'
 #Author: Jim Weirich(jim@somewhere.com)
 name = ARGV.first || "World"
 puts "Hello, #{name}!"
+puts "Just added code to github server"
