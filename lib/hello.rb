@@ -4,3 +4,4 @@ require 'greeter'
 name = ARGV.first || "World"
 puts "Hello, #{name}!"
 puts "Just added code to github server"
+puts "Just have to chekc the rebase command"
